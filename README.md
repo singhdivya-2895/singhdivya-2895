@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Banner](https://github.com/singhdivya-2895/singhdivya-2895/blob/main/divya_singh.png)](https://www.linkedin.com/in/singhdivyatech/)
 
 <!--
 **singhdivya-2895/singhdivya-2895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
