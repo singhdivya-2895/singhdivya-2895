@@ -20,6 +20,10 @@ Hi, I am Divya Singh. I'm an accomplished Software Engineer with over 2 years of
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="30" height="30"/>
 </p>
+
+## 📱 Let's Connect
+
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/singhdivyatech/) <br/><br/>
 <!--
 **singhdivya-2895/singhdivya-2895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
