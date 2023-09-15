@@ -24,6 +24,8 @@ Hi, I am Divya Singh. I'm an accomplished Software Engineer with over 2.5 years 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="nuget" title="Nuget" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" title="Github" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/ml/1581?s=140&v=4" alt="sonar" title="Sonar Cloud" width="40" height="40"/>
+<img src="https://www.mabl.com/hubfs/CICDBlog.png" alt="cicd" title="Continuous Integration & Continuous Deployment" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" title="Microsoft Azure" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" title="Trello - Task Manager" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" title="Windows" width="40" height="40"/>
