@@ -1,6 +1,6 @@
 [![Banner](https://github.com/singhdivya-2895/singhdivya-2895/blob/main/divya_singh_github.png)](https://www.linkedin.com/in/singhdivyatech/)
 
-Hi, I am Divya Singh. I'm an accomplished Software Engineer with over 3 years of total experience, including 2.3 years of industry expertise and 9 months dedicated to freelancing, GitHub projects, and self-directed learning, specializing in troubleshooting and resolving complex software challenges. I have a strong proficiency in designing and developing innovative features that enhance performance and functionality. My approach to problem-solving is proactive, and I possess exceptional critical thinking and collaboration skills.
+Greetings, I'm Divya Singh. I bring over 3 years of comprehensive experience to the table, comprising 2.3 years of industry proficiency along with 9 months devoted to freelancing, GitHub projects, and self-directed learning. My specialization lies in constructing, diagnosing, and sustaining intricate software functionalities. I have a strong proficiency in designing and developing innovative features that enhance performance and functionality. My approach to problem-solving is proactive, and I possess exceptional critical thinking and collaboration skills.
 
 ## 💅🏻 Languages & Tools
 
