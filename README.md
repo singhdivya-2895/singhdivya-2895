@@ -9,6 +9,7 @@ Greetings, I'm Divya Singh. I bring over approx 4 years of comprehensive experie
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" title="C#" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" title="Microsoft SQL Server" width="40" height="40"/>
 <img src="https://vistadb.com/assets/images/icon-ms.svg" alt="ef" title="Entity Framework" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/83077457?s=48&v=4" alt="dapper" title="Dapper" width="40" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:413/1*Q4Jal0sXvJbvXJ1-qu9PCw.png" alt="mediatr-pattern" title="Mediatr Pattern" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="React Js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/>
