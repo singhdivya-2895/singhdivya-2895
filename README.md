@@ -1,6 +1,6 @@
 [![Banner](https://github.com/singhdivya-2895/singhdivya-2895/blob/main/divya_singh_github.png)](https://www.linkedin.com/in/singhdivyatech/)
 
-Greetings, I'm Divya Singh. I bring over approx 4 years of comprehensive experience to the table, comprising exposure to both front-end and backend-technologies with sepcialization in .Net Technologies. My expertise lies in constructing, diagnosing, and sustaining intricate software functionalities. I have a strong proficiency in designing and developing innovative features that enhance performance and functionality. My approach to problem-solving is proactive, and I possess exceptional critical thinking and collaboration skills.
+Greetings, I'm Divya Singh. I bring over approx 4 years of comprehensive experience to the table, comprising exposure to both front-end and backend-technologies with specialization in .Net Technologies. My expertise lies in constructing, diagnosing, and sustaining intricate software functionalities. I have a strong proficiency in designing and developing innovative features that enhance performance and functionality. My approach to problem-solving is proactive, and I possess exceptional critical thinking and collaboration skills.
 
 ## 💅🏻 Languages & Tools
 
